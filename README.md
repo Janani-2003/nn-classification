@@ -201,7 +201,8 @@ print(le.inverse_transform(x_single_prediction))
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![image](https://github.com/Janani-2003/nn-classification/assets/94288340/30406ae1-081f-4d19-a338-aff969a419a3)
+
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
